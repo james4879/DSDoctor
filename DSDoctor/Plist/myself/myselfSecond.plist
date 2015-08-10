@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>womensdress</string>
+		<key>title</key>
+		<string>女装</string>
+		<key>arrow</key>
+		<string>arrow</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>menswear</string>
+		<key>title</key>
+		<string>男装</string>
+		<key>arrow</key>
+		<string>arrow</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>infantmom</string>
+		<key>title</key>
+		<string>母婴</string>
+		<key>arrow</key>
+		<string>arrow</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>appliance</string>
+		<key>title</key>
+		<string>家电</string>
+		<key>arrow</key>
+		<string>arrow</string>
+	</dict>
+</array>
+</plist>

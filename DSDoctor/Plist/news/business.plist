@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>newsIcon</key>
+		<string>b_1.jpg</string>
+		<key>newsTitle</key>
+		<string>奖Ipad mini3 抢低息网商贷款</string>
+		<key>newsDate</key>
+		<string>10分钟</string>
+		<key>newsComment</key>
+		<string>310</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>b_2.jpg</string>
+		<key>newsTitle</key>
+		<string>阿里百川无线开放大会</string>
+		<key>newsDate</key>
+		<string>12分钟</string>
+		<key>newsComment</key>
+		<string>35</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>b_3.jpg</string>
+		<key>newsTitle</key>
+		<string>中国移动互联网投资大会</string>
+		<key>newsDate</key>
+		<string>22分钟</string>
+		<key>newsComment</key>
+		<string>127</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>b_4.jpg</string>
+		<key>newsTitle</key>
+		<string>2014双十一无线运营攻略</string>
+		<key>newsDate</key>
+		<string>39分钟</string>
+		<key>newsComment</key>
+		<string>124</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>b_5.jpg</string>
+		<key>newsTitle</key>
+		<string>高效开车，直通类目NO.1</string>
+		<key>newsDate</key>
+		<string>45分钟</string>
+		<key>newsComment</key>
+		<string>28</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>b_2.jpg</string>
+		<key>newsTitle</key>
+		<string>网商小年会暨派代分公司落户广州见面会</string>
+		<key>newsDate</key>
+		<string>58分钟</string>
+		<key>newsComment</key>
+		<string>8</string>
+	</dict>
+</array>
+</plist>

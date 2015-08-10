@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>leftLabel</key>
+		<string>[ 顶 置 ]</string>
+		<key>middleLabel</key>
+		<string>2015最新母婴服饰， 从朋友的话中我们不禁感觉到淘宝到底该怎么玩，雷军说，母猪站在风口都能飞起来，</string>
+		<key>arrowImg</key>
+		<string>arrow</string>
+	</dict>
+	<dict>
+		<key>leftLabel</key>
+		<string>[ 最 新 ]</string>
+		<key>middleLabel</key>
+		<string>韩式母婴，能活下来就算赚钱了。</string>
+		<key>arrowImg</key>
+		<string>arrow</string>
+	</dict>
+	<dict>
+		<key>leftLabel</key>
+		<string>[ 最 热 ]</string>
+		<key>middleLabel</key>
+		<string>精品母婴，当你忙的脚朝上的时候，没发现那些默默做产品的人</string>
+		<key>arrowImg</key>
+		<string>arrow</string>
+	</dict>
+</array>
+</plist>

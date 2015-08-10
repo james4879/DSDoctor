@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>newsIcon</key>
+		<string>dry_1.jpg</string>
+		<key>newsTitle</key>
+		<string>微信创业沙龙</string>
+		<key>newsDate</key>
+		<string>12分钟</string>
+		<key>newsComment</key>
+		<string>12</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>dry_2.jpg</string>
+		<key>newsTitle</key>
+		<string>O2O与移动创业沙龙</string>
+		<key>newsDate</key>
+		<string>18分钟</string>
+		<key>newsComment</key>
+		<string>16</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>dry_3.jpg</string>
+		<key>newsTitle</key>
+		<string>派代总裁俱乐部北京站</string>
+		<key>newsDate</key>
+		<string>28分钟</string>
+		<key>newsComment</key>
+		<string>34</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>dry_4.jpg</string>
+		<key>newsTitle</key>
+		<string>首届电商仓储嘉年华暨中联网仓开仓盛典</string>
+		<key>newsDate</key>
+		<string>37分钟</string>
+		<key>newsComment</key>
+		<string>38</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>dry_5.jpg</string>
+		<key>newsTitle</key>
+		<string>派友连连看郑州站之中小卖家淘宝生存之道</string>
+		<key>newsDate</key>
+		<string>37分钟</string>
+		<key>newsComment</key>
+		<string>65</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>dry_6.jpg</string>
+		<key>newsTitle</key>
+		<string>想进阿里的悲剧了，马云说了今年不会增加一个员工
+销量想突破---淘内淘外流量提升是关键</string>
+		<key>newsDate</key>
+		<string>37分钟</string>
+		<key>newsComment</key>
+		<string>12</string>
+	</dict>
+</array>
+</plist>

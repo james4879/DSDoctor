@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>newsIcon</key>
+		<string>act_5.jpg</string>
+		<key>newsTitle</key>
+		<string>2015中国020新商业峰会•北京</string>
+		<key>newsDate</key>
+		<string>12分钟</string>
+		<key>newsComment</key>
+		<string>13</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>act_4.jpg</string>
+		<key>newsTitle</key>
+		<string>销量想突破——流量提升是关键
+派友汇分享会广州站</string>
+		<key>newsDate</key>
+		<string>20分钟前</string>
+		<key>newsComment</key>
+		<string>13</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>act_3.jpg</string>
+		<key>newsTitle</key>
+		<string>2015亿邦跨境电子商务峰会</string>
+		<key>newsDate</key>
+		<string>32分钟</string>
+		<key>newsComment</key>
+		<string>13</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>act_2.jpg</string>
+		<key>newsTitle</key>
+		<string>第三届中国电子商务年会--移聚势能 动享未来</string>
+		<key>newsDate</key>
+		<string>50分钟前</string>
+		<key>newsComment</key>
+		<string>13</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>act_1.jpg</string>
+		<key>newsTitle</key>
+		<string>微电商专题课</string>
+		<key>newsDate</key>
+		<string>昨天</string>
+		<key>newsComment</key>
+		<string>13</string>
+	</dict>
+</array>
+</plist>

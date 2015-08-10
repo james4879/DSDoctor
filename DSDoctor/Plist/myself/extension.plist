@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>leftLabel</key>
+		<string>[ 顶 置 ]</string>
+		<key>middleLabel</key>
+		<string>2015销售简讯，无线端直通车引流主要是利用无线端超高的直通车点击率去降低点击单价，然后大量投放无线端直通车为无线端流量占比加权重。</string>
+		<key>arrowImg</key>
+		<string>arrow</string>
+	</dict>
+	<dict>
+		<key>leftLabel</key>
+		<string>[ 最 新 ]</string>
+		<key>middleLabel</key>
+		<string>行业解读，比如手机专享价丶淘金币活动，无线端装修，和无线端的一些专属活动或者专属服务，都是无线端的加权限。</string>
+		<key>arrowImg</key>
+		<string>arrow</string>
+	</dict>
+	<dict>
+		<key>leftLabel</key>
+		<string>[ 最 热 ]</string>
+		<key>middleLabel</key>
+		<string>天猫国际，从老顾客入手，短信，微博及微信，齐齐发力，利用免单来吸引, 不管是什么渠道，都要记得放上聚划算的链接；</string>
+		<key>arrowImg</key>
+		<string>arrow</string>
+	</dict>
+</array>
+</plist>

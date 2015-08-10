@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3CBC8C18-0D66-4646-BB91-963D8C74872B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DSDoctor</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>fbac8123-761b-4cd6-8328-b8fb5ab6377e++505</key>
+		<string>svn://115.28.134.173/doctor/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DSDoctor/DSDoctor.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>fbac8123-761b-4cd6-8328-b8fb5ab6377e++505</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>fbac8123-761b-4cd6-8328-b8fb5ab6377e++505</key>
+		<string>svn://115.28.134.173/doctor</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://115.28.134.173/doctor/trunk/DSDoctor/DSDoctor.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>fbac8123-761b-4cd6-8328-b8fb5ab6377e++505</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>fbac8123-761b-4cd6-8328-b8fb5ab6377e++505</string>
+			<key>IDESourceControlWCCName</key>
+			<string>trunk</string>
+		</dict>
+	</array>
+</dict>
+</plist>

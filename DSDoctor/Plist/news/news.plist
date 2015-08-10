@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>newsIcon</key>
+		<string>72_avatar_m.jpg</string>
+		<key>newsTitle</key>
+		<string>高峰跨界对话：线上线下如何共赢</string>
+		<key>newsDate</key>
+		<string>今天</string>
+		<key>newsComment</key>
+		<string>68</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>hot_1</string>
+		<key>newsTitle</key>
+		<string>电商哪家强</string>
+		<key>newsDate</key>
+		<string>昨天</string>
+		<key>newsComment</key>
+		<string>100</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>80_avatar_m.jpg</string>
+		<key>newsTitle</key>
+		<string>我最美！</string>
+		<key>newsDate</key>
+		<string>2015-4-19</string>
+		<key>newsComment</key>
+		<string>29</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>hot_3.jpg</string>
+		<key>newsTitle</key>
+		<string>午间快讯：菜鸟网络电子面单永久免费开放 网购平台经营管理将纳入工商监管</string>
+		<key>newsDate</key>
+		<string>今天</string>
+		<key>newsComment</key>
+		<string>68</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>hot_3.jpg</string>
+		<key>newsTitle</key>
+		<string>请教大神：下午两点，约吗？？</string>
+		<key>newsDate</key>
+		<string>今天</string>
+		<key>newsComment</key>
+		<string>22</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>hot_2.jpg</string>
+		<key>newsTitle</key>
+		<string>十年电商路，少年白了头</string>
+		<key>newsDate</key>
+		<string>今天</string>
+		<key>newsComment</key>
+		<string>89</string>
+	</dict>
+</array>
+</plist>

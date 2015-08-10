@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6751" systemVersion="14C109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6736"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="DStwoViewController">
+            <connections>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="8" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" id="rMc-66-dS4">
+                    <rect key="frame" x="10" y="5" width="300" height="400"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <mutableString key="text">     先说政策方便，第一，国家推全民创业，天猫肯定是主力；第二，天猫招商变化非常之大，入驻门槛非常之高，第三，实体经济不理想，第四交税是早晚的事。
+
+招商停止对于已经入驻的商家来说是好事，竞争不那么激烈了，但是有没有想过。下一步天猫要怎么样天猫这方面，我猜，1，对店铺进行梳理留优去劣，2，清退清退再清退， 只把有实力的商家留下，剩下的全都蛋蛋去，3，最后我希望续约不要卡我们。。。。总结，天猫要扩大自己的优势 ，他的优势 是什么？品质，我相信天猫会想着办法提升品质，当然，有些中小卖家就会被自然淘汰，中小卖家无法提供有保障的服务和产品。我觉得天猫以后的生意会做，但我们能不能最终留在天猫。是一个？号
+
+关于税的问题，最近新闻一直在报，只是在国家经济前景不太好的情况下，这个 很难实现，但这是迟早的事，如果经济预期向好，整体经济向好，我相信第一批就是收拾这些没交税的。。小弟对财会的知识了解一些，按我国税法，补税按平均税负，而不是17%，一般是5%左右，如果你的销售过千万，我觉得应该小心点，增值税是入刑法的，额度太大后果也很严重，举个例子，我去给一个一般纳税人当主管会计，当我开增票的时候，我会了解一下。是不是真实销售，如果没有销售就开，我宁愿辞职。
+
+趋势分析，我觉得未来的电商是厂家主导的直销，就像DELL一样，有没有经销商，有没有中间环节，肯定有，但是肯定不像实体经济那么多环节，毕竟要有售前售中售后，电商这几年发展的快，变化的形式也很快，原来线下的企业都来电商淘金，但结果有销量，赚没赚到钱，很难说，
+
+还有一个问题，政策是否以电商的形式让企业垄断经营。。。。
+我又想到一个问题，实体经济被电商冲击了，电商没赚到钱，都被平台扣没了。。那谁最终赚到钱了？
+平台呗。。。平台赚大头，厂家赚小头，电商赚零头。。</mutableString>
+                    <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                    <connections>
+                        <outlet property="delegate" destination="i5M-Pr-FkT" id="Fjj-DL-g10"/>
+                    </connections>
+                </textView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="dry_1" id="fiO-nX-57B">
+                    <rect key="frame" x="10" y="413" width="300" height="155"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+            <point key="canvasLocation" x="210" y="82"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="dry_1" width="220" height="150"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

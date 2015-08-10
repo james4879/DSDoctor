@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>leftLabel</key>
+		<string>[ 顶 置 ]</string>
+		<key>middleLabel</key>
+		<string>2015最新电器，我的理解是，去年上市，我们希望看到利好消息，</string>
+		<key>arrowImg</key>
+		<string>arrow</string>
+	</dict>
+	<dict>
+		<key>leftLabel</key>
+		<string>[ 最 新 ]</string>
+		<key>middleLabel</key>
+		<string>韩式电器，做大销售额，但是接二连三的负面新闻（假货和虚假交易炒作）以及带来的连锁反应蒸发的百亿市值</string>
+		<key>arrowImg</key>
+		<string>arrow</string>
+	</dict>
+	<dict>
+		<key>leftLabel</key>
+		<string>[ 最 热 ]</string>
+		<key>middleLabel</key>
+		<string>精品电器，很多宝贝非常稳定的转化反而流量不增长，转化率比较波动的反而流量在增长，</string>
+		<key>arrowImg</key>
+		<string>arrow</string>
+	</dict>
+</array>
+</plist>

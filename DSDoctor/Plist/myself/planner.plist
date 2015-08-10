@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>leftLabel</key>
+		<string>[ 顶 置 ]</string>
+		<key>middleLabel</key>
+		<string>快消品决战移动互联网营销</string>
+		<key>arrowImg</key>
+		<string>arrow</string>
+	</dict>
+	<dict>
+		<key>leftLabel</key>
+		<string>[ 最 新 ]</string>
+		<key>middleLabel</key>
+		<string>消费者体验为王，赶集创始人杨浩涌对记者说。他所说的“老姚”指58创始人姚劲波，两人在分类信息服务领域是长达10年的对手。</string>
+		<key>arrowImg</key>
+		<string>arrow</string>
+	</dict>
+	<dict>
+		<key>leftLabel</key>
+		<string>[ 最 热 ]</string>
+		<key>middleLabel</key>
+		<string>客户需求的确差异化，O2O战火硝烟弥漫，背景音乐是“冰与火之歌”。</string>
+		<key>arrowImg</key>
+		<string>arrow</string>
+	</dict>
+</array>
+</plist>

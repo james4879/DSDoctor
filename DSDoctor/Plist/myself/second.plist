@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>leftLabel</key>
+		<string>[ 顶 置 ]</string>
+		<key>middleLabel</key>
+		<string>2015最新男装，从单品运营控制到产品线运营控制，立足搜索丶直通车丶钻展以及聚划算的营销策划，都有一定程度的研究</string>
+		<key>arrowImg</key>
+		<string>arrow</string>
+	</dict>
+	<dict>
+		<key>leftLabel</key>
+		<string>[ 最 新 ]</string>
+		<key>middleLabel</key>
+		<string>韩式男装，聚划算的营销策划，都有一定程度的研究</string>
+		<key>arrowImg</key>
+		<string>arrow</string>
+	</dict>
+	<dict>
+		<key>leftLabel</key>
+		<string>[ 最 热 ]</string>
+		<key>middleLabel</key>
+		<string>精品男装，最重要的是选择一款优质的产品?</string>
+		<key>arrowImg</key>
+		<string>arrow</string>
+	</dict>
+</array>
+</plist>

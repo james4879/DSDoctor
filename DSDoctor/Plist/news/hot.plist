@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>newsIcon</key>
+		<string>bu_1.jpg</string>
+		<key>newsTitle</key>
+		<string>【狼道】做淘宝还有活路吗？</string>
+		<key>newsDate</key>
+		<string>1分钟</string>
+		<key>newsComment</key>
+		<string>89</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>bu_2.jpg</string>
+		<key>newsTitle</key>
+		<string>思路汇：如何玩转出口跨境电商？</string>
+		<key>newsDate</key>
+		<string>5分钟</string>
+		<key>newsComment</key>
+		<string>12</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>bu_3.jpg</string>
+		<key>newsTitle</key>
+		<string>钻展新篇章之定向融合——ROI停不下来</string>
+		<key>newsDate</key>
+		<string>21分钟</string>
+		<key>newsComment</key>
+		<string>38</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>bu_4.jpg</string>
+		<key>newsTitle</key>
+		<string>钻展新系统资源位投放新策略</string>
+		<key>newsDate</key>
+		<string>37分钟</string>
+		<key>newsComment</key>
+		<string>112</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>bu_5.jpg</string>
+		<key>newsTitle</key>
+		<string>如何做出更加高大上有吸引力的产品海报？</string>
+		<key>newsDate</key>
+		<string>38分钟</string>
+		<key>newsComment</key>
+		<string>25</string>
+	</dict>
+</array>
+</plist>

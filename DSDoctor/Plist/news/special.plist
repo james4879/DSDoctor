@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>newsIcon</key>
+		<string>72_avatar_m.jpg</string>
+		<key>newsTitle</key>
+		<string>专题活动</string>
+		<key>newsDate</key>
+		<string>12分钟</string>
+		<key>newsComment</key>
+		<string>13</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>hot_1.jpg</string>
+		<key>newsTitle</key>
+		<string> 电商派 －－ 好资讯</string>
+		<key>newsDate</key>
+		<string>15分钟</string>
+		<key>newsComment</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>hot_4.jpg</string>
+		<key>newsTitle</key>
+		<string>天猫</string>
+		<key>newsDate</key>
+		<string>19分钟</string>
+		<key>newsComment</key>
+		<string>56</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>80_avatar_m.jpg</string>
+		<key>newsTitle</key>
+		<string>大甩卖啦！</string>
+		<key>newsDate</key>
+		<string>20分钟前</string>
+		<key>newsComment</key>
+		<string>280</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>hot_5.jpg</string>
+		<key>newsTitle</key>
+		<string>阿里成功之路！你懂吗？</string>
+		<key>newsDate</key>
+		<string>30分钟前</string>
+		<key>newsComment</key>
+		<string>109</string>
+	</dict>
+	<dict>
+		<key>newsIcon</key>
+		<string>hot_3.jpg</string>
+		<key>newsTitle</key>
+		<string>还在等什么？5.1大优惠！</string>
+		<key>newsDate</key>
+		<string>昨天</string>
+		<key>newsComment</key>
+		<string>29</string>
+	</dict>
+</array>
+</plist>

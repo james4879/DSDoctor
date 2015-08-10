@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7702" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7701"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="DSFourViewController">
+            <connections>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" selectable="NO" id="dor-NF-g7F">
+                    <rect key="frame" x="10" y="0.0" width="300" height="568"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <mutableString key="text">      话说今天真是有收货的一天，看樱花飘落，陪狗熊卖萌，学创业经验，破运动记录，就是没空剪头发了。不过除了创业经验，想必其他内容大家都不感兴趣，下面就说下我的学习速记‘
+
+       首先是三家短时间内小有成绩的创业公司介绍经验，经验分别是：
+
+1. 豌豆荚自己成立团队做小众APP，12个人的团队，一个月开发一个，依靠豌豆荚进行APP试推广，数据良好后再做精主推，是基于资源孵化的快公司典型；
+
+2. 一家艺术家和收藏家提供社交与在线交易的APP,创始人解决技术平台与运营，投资人搞定收藏家会员（同时在自己IT男圈子里做推广），合伙人来解决艺术家入驻，资源合作的快公司典型；
+
+3. 程序员做的面向程序员评估自己价值，招聘，线上能力测试功能的网站，做自己所在圈子的需求点，是最简单的快公司模式。
+
+    下面是比较NX快速创业公司老板的分享，除了自家秘籍外，还有行业信息。
+
+    先是做手机系统，面向海外市场的：
+
+自家秘籍：互联网产品的三点两制，先做用户需求痛点，再做传播亮点，之后是用户体验粘点，再之后是UI的精致，UE的极致。
+
+产品六十分后就要上市，每个员工都要满足千万企业市值的价值，全力开发应用方向的新用户，不要去和成熟的企业抢对这类应用熟悉的老用户
+
+行业信息：海外市场对中国互联网企业是现成的蛋糕，因为中国互联网企业在技术丶运营丶产品上都是世界一流的，而在很多发展中国家，互联网市场竞争的激烈程度只有国内的1/100。
+
+再而且不用怕腾讯百度阿里什么的去和你强市场，因为中国互联网巨头的高管都不愿意负责海外市场，以避免离开核心市场，成为管理层边缘，这就造成在这些巨头中，了解海外市场的没有决策权，所以虽然在技术，产品，运营上都远超海外同行，但还是无法在海外生存
+
+   第二位是小米手环的老大：
+
+    他主要透露两个信息：
+
+1 小米手环在被业内骂“作死一个行业”的情况下，还能有千万的销售利润，而如何做成本控制呢？，他举例为了控制成本，靠着自己在硬件上多年的积累，小米手环的研发团队去把配件供货商的生产流程优化了。
+
+2. 另外也明说了，小米手环是为了把APP用户做上去，销售利润什么的先边去吧，目前已经赚钱了，所以下面的产品要更加便宜。（小米手环看重的是用户，而不是销量利润。）
+
+
+最后吐槽下，派代等电子商务社区的聚会，和创业社区相比，在水平上差出不少了已经，还在死盯着流量和转化，在制造业发达的地区还好，在北京上海这样的城市，还真差点意思。</mutableString>
+                    <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                </textView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+            <point key="canvasLocation" x="228" y="217"/>
+        </view>
+    </objects>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>
